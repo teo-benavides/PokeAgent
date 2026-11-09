@@ -1,0 +1,6 @@
+{
+  "pokemon-trainer": {
+    "transport": "streamable_http",
+    "url": "http://localhost:8765/mcp"
+  }
+}

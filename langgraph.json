@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "pokedex_agent": "./pokeagent/agent.py:make_graph",
+    "pokedex_knowledge": "./pokeagent/knowledge.py:knowledge_graph"
+  },
+  "env": ".env"
+}

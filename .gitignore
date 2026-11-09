@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.example
+.langgraph_api/
+data/raw/
+data/chroma/
+data/team.db
